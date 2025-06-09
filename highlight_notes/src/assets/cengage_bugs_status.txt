@@ -1,0 +1,19 @@
+pending
+31,When we create new highlight then previous highlight has been deleted automatically
+
+selva fixed bugs:
+32, Global for My Notes: Please check and set all the elements UI as per Figma. - fixed,
+33, Query: Please confirm, in which order created notes and highlights should appear.- fixed
+29, My notes: hand icon appear on already created notes and highlights and nothing will be happened on clicking. In Figma mouse pointer is given . -fixed
+24, Highlight should indicate in the corresponding color. please check guidelines and Figma.  - fixed
+21, Text moving ,increase the space, text alignment changed when user highlight any content.- Fixed
+27, Please check info text from Figma and update.place holder- fixed
+30, Global for highlight and notes pop-up UI: Please check and set all the elements UI as per Figma. - Fixed
+
+thango fixed bugs
+22, User is unable to close the highlight and note pop-up. - Fixed (thango)
+23, Observation: User is unable to change the highlight color for already highlight text. - fixed (thango)
+25, Highlight and Note pop-up should automatically when user navigate from one screen to another screen. Please check Figma.-fixed (thango)
+26,New Notes pop-up full view is appearing truncated on my system. Please check - fixed (thango)
+28, When user open notes in full screen then still user able to move pop-up present behind the grayed out background. Please check. - fixed (thango)
+20, Blue highlight for selection text is missing. Please check Figma and guidelines doc. - Fixed (Fixed)

@@ -1,0 +1,15 @@
+3/6/2025
+
+Video - full screen, volume and caption (floating)
+main content for reaserch height should adjust for scroll bar cutting
+While clicking each button that video screen shaking effect please refer screen shot
+When clicking the three-dot menu, the download and playback speed options are visible.
+
+
+meeting point:
+1. my notes button should enable in all screen. - enabled but need confirmation about highlight popup also enable or not (after brij confirmed i have enabled highlight popup also enabled in instruction page and script content can highlight by the highlight)
+2. script popup and video should able to colabrate. - 
+3. my notes text editor border and notes header should be in same style. - Figma there was different style followed to each notes popup header text, as per discussion in the meeting at 3/6/2025 need consistency for both, so we taken font size 14px and font weight as 500 font color as given in figma
+4. section button should enable after view all tabs at first time - Feature already working as expected No changes done 
+5. focus order should be followed as per wcag - 
+6. main content frame size fix. - 
